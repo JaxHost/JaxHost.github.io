@@ -11,3 +11,5 @@ a { color: white; font-family:sans-serif ; text-decoration: none;}
 .Heading-Bar { z-index:10 ;}
 
 #Links-Bar { float: right; background-color: darkorchid;}
+
+#UnfinishedWarning{ color:crimson; position: fixed; bottom: 100px; font-weight:50px ;}
