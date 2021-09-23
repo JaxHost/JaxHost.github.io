@@ -1,0 +1,13 @@
+h1, h3 { color:white; font-family: sans-serif; text-align: center;}
+
+p { color:white; font-family: sans-serif; line-height: 15px; text-align: center;}
+
+body { background-color: rgb(20, 20, 20) ; border-top: rgb(105, 15, 165);}
+
+a { color: white; font-family:sans-serif ; text-decoration: none;}
+
+.HyperLinks { color:blueviolet;}
+
+.Heading-Bar { z-index:10 ;}
+
+#Links-Bar { float: right; background-color: darkorchid;}
